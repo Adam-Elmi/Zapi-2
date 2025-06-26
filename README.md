@@ -1,7 +1,5 @@
 # Zapi 2
 
-# Zapi 2
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Language: Go](https://img.shields.io/badge/Language-Go-blue.svg)](https://golang.org)
 [![API](https://img.shields.io/badge/Type-API-lightgrey.svg)](#)

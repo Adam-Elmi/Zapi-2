@@ -6,8 +6,7 @@
 
 
 Zapi 2 is a Go-based rewrite of the unofficial Zaad API (originally in JavaScript).  
-work in progress.
 
 Original project by: Mustafa Saeed Haji Ali ([xTRUMANx/zapi](https://github.com/xTRUMANx/zapi))  
-Go rewrite by: Adam Elmi ([AdamElmi](https://github.com/AdamElmi))  
+Go rewrite by: Adam Elmi ([AdamElmi](https://github.com/Adam-Elmi/Zapi-2))  
 License: MIT

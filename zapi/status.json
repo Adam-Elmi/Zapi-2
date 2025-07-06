@@ -1,0 +1,36 @@
+{
+  "zapi_dependencies": [
+    {
+      "dependency": {
+        "name": "request",
+        "status": "deprecated",
+        "last_update": "Feb 12, 2020",
+        "link": "https://github.com/request/request"
+      }
+    },
+    {
+      "dependency": {
+        "name": "cheerio",
+        "status": "active",
+        "last_update": "Jul 4, 2025",
+        "link": "https://github.com/cheeriojs/cheerio"
+      }
+    },
+    {
+      "dependency": {
+        "name": "debug",
+        "status": "active",
+        "last_update": "May 13, 2025",
+        "link": "https://github.com/debug-js/debug"
+      }
+    },
+    {
+      "dependency": {
+        "name": "xlsjs",
+        "status": "deprecated",
+        "last_update": "Feb 1, 2024",
+        "link": "https://www.npmjs.com/package/xlsjs"
+      }
+    }
+  ]
+}
